@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #fff;
+  color: #000;
+}
+
+header {
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+  padding: 2rem;
+}
+
+.logo {
+  max-width: 150px;
+  margin-bottom: 1rem;
+}
+
+/* Additional styling for sections */

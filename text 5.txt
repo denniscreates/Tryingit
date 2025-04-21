@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Termo Glob - HVAC Experts</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <img src="logo.png" alt="Termo Glob Logo" class="logo" />
+    <h1>Termo Glob</h1>
+    <p>Leading HVAC Solutions in Kosovo</p>
+  </header>
+  <!-- Additional sections go here -->
+  <script src="script.js"></script>
+</body>
+</html>
